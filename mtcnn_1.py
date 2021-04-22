@@ -1,4 +1,6 @@
-# This code detects the face in real-time through your webcam and saves the face in '.jpg' 
+# This code detects the face in real-time through your webcam and saves the face in '.jpg' .
+# Pls make the 'images' folder in your current DIR for saving the cropped images.
+
 from mtcnn import MTCNN
 import cv2
 import time
