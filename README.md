@@ -5,6 +5,8 @@
 MTCNN (Multi-task Cascaded Neural Network) detects faces and facial landmarks on images/videos. This method was proposed by Kaipeng Zhang et al. in their paper ‘Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks’, IEEE Signal Processing Letters, Volume: 23 Issue: 10.
 The whole concept of MTCNN can be explained in three stages out of which, in the third stage, facial detection and facial landmarks are performed simultaneously. These stages consists of various CNN’s with varying complexities.
 
+Installation in python :- pip install mtcnn
+
 ![image](https://user-images.githubusercontent.com/48207530/115844066-1a87cd80-a43d-11eb-85f3-f1d0ea4d6957.png)
 
 
