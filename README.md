@@ -7,8 +7,7 @@ The whole concept of MTCNN can be explained in three stages out of which, in the
 
 Installation in python :- pip install mtcnn
 
-![image](https://user-images.githubusercontent.com/48207530/115844066-1a87cd80-a43d-11eb-85f3-f1d0ea4d6957.png)
-
+![image](https://user-images.githubusercontent.com/48207530/116119412-0b727b00-a6dc-11eb-84db-70e4a6b97d14.png)
 
 <h3>A simpler explanation of the three stages of MTCNN can be as follows : </h3>
 
